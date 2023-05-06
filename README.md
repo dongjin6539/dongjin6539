@@ -1,6 +1,16 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontAlignY=40&desc=Dongjin's%20Github%20Profile&descAlign=60&fontSize=90" />
   <div>
+    방문자 수
+    <div>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    </div>
+    SNS
+    <div>
+      <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D0271D?style=floatc&logo=Instagram&logoColor=white"></a>
+      <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2C5BB4?logo=Facebook&logoColor=white"></a>
+      <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-00ACC1?logo=Gmail&logoColor=white"></a>
+    </div>
     프로그래밍 & 마크업 언어
     <div>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=floatc&logo=JavaScript&logoColor=white"></a>
@@ -34,6 +44,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
     </div>
   </div>
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjin6539&layout=compact)](https://github.com/dongjin6539/github-readme-stats)
+  
   ![dongjin6539's github stats](https://github-readme-stats.vercel.app/api?username=dongjin6539&show_icons=true&theme=prussian)
 </div>
