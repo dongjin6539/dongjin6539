@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Welcome&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Welcome&desc=dongjin's%20Github%20Profile&fontSize=90" />
 프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
