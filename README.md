@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontAlignY=40&desc=Dongjin's%20Github%20Profile&descAlign=60&fontSize=90" />
+<div>😄안녕하세요!😄<br>💻프론트엔드 공부중인 DongJin입니다.💻<br>❤️열심히 배우려고 노력하고 있습니다.❤️<br>👏잘 부탁드립니다.👏</div><br>
  😁방문자 수
   <div>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </div><br>
-  ❤️SNS
+  📧SNS
   <div>
     <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D0271D?style=floatc&logo=Instagram&logoColor=white"></a>
     <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2C5BB4?logo=Facebook&logoColor=white"></a>
